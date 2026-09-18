@@ -1,0 +1,6 @@
+{
+  "name": "Royal Surgical - Pharmacy & Surgical Supplies",
+  "description": "Royal Surgical in Aurangabad, Bihar. Your trusted medical store for genuine medicines, surgical supplies, OTC essentials, healthcare equipment, and fast WhatsApp home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
